@@ -1,0 +1,40 @@
+body{
+    font-family: 'Sarabun', sans-serif;
+}
+h1{
+    font-size: 50;
+
+}
+.name{
+    color: blue;
+    
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;}
+     img{
+        width:60%
+    }
+    section{
+        height: 300px;
+    }
+    .link-button{
+        text-decoration: none;
+        background-color: blue;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+    }
+    .full{
+        width: 30%;
+        float: left;
+        margin-left: 1%;
+        padding-left: 1%;
+    }
+
+    }
+
+    
